@@ -10,3 +10,11 @@ Acta 11 Junio 2017
 
 ## Proxima reunion
 Por determinar -> Cuando Anibal decida*
+
+#### Elementos de la landing page:
+
+ * Noticias
+ * Facebook
+ * Calendario
+ * Mapa de círculos
+ * Menú
