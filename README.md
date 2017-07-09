@@ -15,7 +15,17 @@ Acta 25 Junio
 
  * ~~Omar -> Hacer sketches baja fidelidad~~
  * Todos -> Aprender de wordpress
- 
+
+Acta 9 Julio
+
+## TO-DOs
+
+ * ~~Omar -> Hacer sketches baja fidelidad~~
+ * Anibal stuttgart -> Hacer sketches
+ * Serafin -> Hacer sketches
+ * Todos -> Aprender de wordpress
+
+
 ## Futuros TODOs
  * Jose Holanda -> Preguntar por nuevos estilos y tipografia a Podemos
  * ????? -> Integrar la web de exteriores con el nuevo diseno en el dominio fantasma
